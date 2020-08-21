@@ -1,0 +1,3 @@
+[submodule "expo"]
+	path = expo
+	url = https://github.com/liu-kevin1/back2schoolhackathon
